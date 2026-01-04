@@ -9,3 +9,5 @@ def hello_world():
 hello_world()
 
 print("我爱你中国")
+
+print("我爱你山西")
