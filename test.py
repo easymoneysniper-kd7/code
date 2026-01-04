@@ -7,3 +7,5 @@ def hello_world():
 
 # 调用函数
 hello_world()
+
+print("我爱你中国")
